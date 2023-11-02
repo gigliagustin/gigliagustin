@@ -44,11 +44,6 @@ I'm 25 Years old, and I live in Tucumán, Argentina
 <a href="https://github.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45" />
 </a>
-</p>
-
-#### 🌱*Tools that I'm learning*
-
-<p align="left">
 <a href="https://sass-lang.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
 </a>
@@ -57,6 +52,23 @@ I'm 25 Years old, and I live in Tucumán, Argentina
 </a>
 <a href="https://reactnative.dev/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-native" width="45" height="45" />
+</a>
+</p>
+
+#### 🌱*Tools that I'm learning*
+
+<p align="left">
+<a href="https://www.java.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45" />
+</a>
+<a href="https://kubernetes.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" alt="45" height="45"/>
+</a>
+<a href="https://aws.amazon.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" alt="45" height="45" />
 </a>
 </p>
 
