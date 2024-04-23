@@ -7,8 +7,8 @@ But some dear people tells me Agucho 😂
 I'm 26 Years old, and I live in Tucumán, Argentina
 
 - I'm working in a awesome and challenging job as a _Developer_
-- 🌱 I'm learning React, React Native and TypeScript
-- 📖 I'm planing to learn later Java, Golang, Python, Kotlin and Swift
+- 🌱 I'm learning Java, Spring-boot, AWS, Kubernetes, DevOps
+- 📖 I'm planing to learn later Golang. But also I wan't to make a deep learning on Java, and DevOps tools (Such as AWS, Google Cloud, etc. Kubernetes and so on)
 
 > “Be as a tower, that, firmly set,
 > Shakes not its top for any blast that blows!”
@@ -80,7 +80,7 @@ I'm 26 Years old, and I live in Tucumán, Argentina
     "firstName": "Agustín",
     "lastName": "Gigli",
     "location": "Tucumán, Argentina",
-    "currentJob": "Front-end Developer"
+    "currentJob": "Full Stack engineer"
   },
   "interests": {
     "hobbies": [
